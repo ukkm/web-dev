@@ -1,2 +1,2 @@
-# web-dev
+# vbs-hugo-website
 Website development environment
